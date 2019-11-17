@@ -1,0 +1,3 @@
+# GPUP_Basic_Solid
+
+Unityで使えるGPUParticleで立体を造形したシェーダー
